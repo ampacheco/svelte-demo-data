@@ -1,0 +1,92 @@
+[ 
+    {
+        "name" : "Peter Thiel",
+        "mail" : "Peter.Thiel",
+        "title": "Don" 
+    },
+    {
+        "name" : "Max Levchin",
+        "mail" : "Max.Levchin",
+        "title": "consigliere" 
+    },
+    {
+        "name" : "Elon Musk",
+        "mail" : "Elon.Musk"
+    },
+    {
+        "name" : "David O. Sacks",
+        "mail" : "David.O.Sacks"
+    },
+    {
+        "name" : "Roelof Botha",
+        "mail" : "Roelof.Botha"
+    },
+    {
+        "name" : "Steve Chen",
+        "mail" : "Steve.Chen"
+    },
+    {
+        "name" : "Reid Hoffman",
+        "mail" : "Reid.Hoffman"
+    },
+    {
+        "name" : "Ken Howery",
+        "mail" : "Ken.Howery"
+    },
+    {
+        "name" : "Chad Hurley",
+        "mail" : "Chad.Hurley"
+    },
+    {
+        "name" : "Eric M. Jackson",
+        "mail" : "Eric.M.Jackson"
+    },
+    {
+        "name" : "Jawed Karim",
+        "mail" : "Jawed.Karim"
+    },
+    {
+        "name" : "Jared Kopf",
+        "mail" : "Jared.Kopf"
+    },
+    {
+        "name" : "Joe Lonsdale",
+        "mail" : "Joe.Lonsdale"
+    },
+    {
+        "name" : "Dave McClure",
+        "mail" : "Dave.McClure"
+    },
+    {
+        "name" : "Andrew McCormack",
+        "mail" : "Andrew.McCormack"
+    },
+    {
+        "name" : "Luke Nosek",
+        "mail" : "Luke.Nosek"
+    },
+    {
+        "name" : "Keith Rabois",
+        "mail" : "Keith.Rabois"
+    },
+    {
+        "name" : "Jack Selby",
+        "mail" : "Jack.Selby"
+    },
+    {
+        "name" : "Premal Shah",
+        "mail" : "Premal.Shah"
+    },
+    {
+        "name" : "Russel Simmons",
+        "mail" : "Russel.Simmons"
+    },
+    {
+        "name" : "Jeremy Stoppelman",
+        "mail" : "Jeremy.Stoppelman"
+    },
+    {
+        "name" : "Yishan Wong",
+        "mail" : "Yishan.Wong"
+    }
+]
