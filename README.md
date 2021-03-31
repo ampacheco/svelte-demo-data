@@ -1,3 +1,3 @@
 # svelte-demo-data
 
-[MAs Detalles en el Template](#)
+[Original Repo](https://github.com/sveltejs/template)
